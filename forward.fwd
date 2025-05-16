@@ -1,0 +1,17 @@
+{
+  "title": "Collection by ilime",
+  "description": "模块收集",
+  "icon": "https://raw.githubusercontent.com/quantumultxx/FW-Widgets/refs/heads/main/icon.png",
+  "widgets":
+  [    
+    {
+      "id": "forward.combined.media.lists",
+      "title": "影视榜单🔍超级聚合",
+      "description": "获取豆瓣、TMDB和IMDB的影视动画榜单",
+      "requiredVersion": "0.0.1",
+      "version": "1.2.3",
+      "author": "阿米诺斯",
+      "url": "https://raw.githubusercontent.com/quantumultxx/FW-Widgets/refs/heads/main/Widgets/ForwardWidgets.js"
+    }
+  ]
+}

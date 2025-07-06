@@ -1,26 +1,34 @@
 {
-  "title": "Collection by ilime",
-  "description": "模块收集",
-  "icon": "https://raw.githubusercontent.com/quantumultxx/FW-Widgets/refs/heads/main/icon.png",
-  "widgets":
-  [
-    {
-      "id": "jable",
-      "title": "jable",
-      "description": "获取jable热门影片榜单",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.1",
-      "author": "nibiru",
-      "url": "https://raw.githubusercontent.com/quantumultxx/FW-Widgets/refs/heads/main/Widgets/jable.js"
-    },
+  "title": "Lime's Collection",
+  "description": "Lime's Collection",
+  "icon": "https://raw.githubusercontent.com/ilime666/ForwardWidgets/refs/heads/main/icon.png",
+  "widgets": [
     {
       "id": "forward.combined.media.lists",
-      "title": "影视榜单🔍超级聚合",
-      "description": "获取豆瓣、TMDB和IMDB的影视动画榜单",
+      "title": "影视榜单",
+      "description": "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
       "requiredVersion": "0.0.1",
-      "version": "1.2.3",
+      "version": "1.2.7",
       "author": "阿米诺斯",
-      "url": "https://raw.githubusercontent.com/quantumultxx/FW-Widgets/refs/heads/main/Widgets/ForwardWidgets.js"
+      "url": "https://gist.githubusercontent.com/huangxd-/37aaa8cca9b888b2bed278e83d4432d9/raw/ForwardWidgets.js"
+    },
+    {
+      "id": "bangumi_charts_tmdb_v3",
+      "title": "Bangumi 热门榜单",
+      "description": "获取Bangumi近期热门、每日放送数据，支持榜单筛选。",
+      "requiredVersion": "0.0.1",
+      "version": "2.0.0", 
+      "author": "Autism",
+      "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/Bangumi_v2.0.0.js"
+    },
+    {
+      "id": "imdb_discovery_final_v2",
+      "title": "IMDb 分类资源 v2",
+      "description": "聚合 IMDb 热门影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "2.0.0",
+      "author": "Autism",
+      "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/IMDb.js"
     }
   ]
 }

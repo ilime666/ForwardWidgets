@@ -69,7 +69,7 @@
     {
       "id": "letterboxd",
       "title": "Letterboxd电影爱好者平台",
-      "description": "解析Letterboxd片单内的影片【五折码：CHEAP.5;七折码：CHEAP】",
+      "description": "解析Letterboxd片单内的影片",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "huangxd",

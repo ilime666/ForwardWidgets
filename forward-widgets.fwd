@@ -44,7 +44,7 @@
       "title": "豆瓣我看&豆瓣个性化推荐",
       "description": "解析豆瓣想看、在看、已看以及根据个人数据生成的个性化推荐",
       "requiredVersion": "0.0.1",
-      "version": "1.0.13",
+      "version": "1.0.17",
       "author": "huangxd",
       "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/douban.js"
     },
@@ -85,24 +85,6 @@
       "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/HotPicks.js"
     },
     {
-      "id": "tv_live",
-      "title": "电视台",
-      "description": "获取热门电视直播频道",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.1",
-      "author": "两块",
-      "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/TvLive.js"
-    },
-    {
-      "id": "movie_paradise",
-      "title": "在线影院",
-      "description": "获取在线电影、电视剧、动漫、综艺和短剧",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "两块",
-      "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/MovieParadise.js"
-    },
-    {
       "id": "person.movie.tmdb",
       "title": "TMDB人物影视作品",
       "description": "获取 TMDB 的榜单数据",
@@ -113,6 +95,7 @@
     }
   ]
 }
+
 
 
 

@@ -4,15 +4,6 @@
   "icon": "https://raw.githubusercontent.com/ilime666/ForwardWidgets/refs/heads/main/icon.png",
   "widgets": [
     {
-      "id": "forward.combined.media.lists",
-      "title": "影视榜单",
-      "description": "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
-      "requiredVersion": "0.0.1",
-      "version": "1.2.9",
-      "author": "阿米诺斯",
-      "url": "https://for-ward.vercel.app/Widgets/combined.js"
-    },
-    {
       "id": "bangumi_charts_tmdb_v3",
       "title": "Bangumi 热门榜单",
       "description": "获取Bangumi近期热门、每日放送数据，支持榜单筛选。",
